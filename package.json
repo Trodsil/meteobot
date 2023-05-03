@@ -1,0 +1,14 @@
+{
+  "name": "meteobot",
+  "version": "1.0.0",
+  "description": "bot del tiempo",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tiago",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
